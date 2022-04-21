@@ -1,4 +1,4 @@
 master branch
-line2
+bug1 
 line3
 line4
